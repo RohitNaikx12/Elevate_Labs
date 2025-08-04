@@ -1,8 +1,8 @@
 
 # 🔒 Port Scanning and Network Security Basics
 
-## Objective: Learn to discover open ports on devices in your local network to understand network exposure. 
-## Tools:  Nmap (free), Wireshark (optional).
+ Objective: Learn to discover open ports on devices in your local network to understand network exposure. 
+ Tools:  Nmap (free), Wireshark (optional).
 
 ---
 
