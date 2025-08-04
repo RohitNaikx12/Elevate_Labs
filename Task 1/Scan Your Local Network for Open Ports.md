@@ -1,4 +1,9 @@
+
 # 🔒 Port Scanning and Network Security Basics
+
+## Objective: Learn to discover open ports on devices in your local network to understand 
+network exposure. 
+Tools:  Nmap (free), Wireshark (optional).
 
 ## 1. What is an Open Port?
 An **open port** is a network port that is actively accepting connections or data packets. It is associated with a specific service or application on a device, such as a web server (port 80) or SSH server (port 22). Open ports can be entry points for legitimate services or potential attack vectors if left unsecured.
