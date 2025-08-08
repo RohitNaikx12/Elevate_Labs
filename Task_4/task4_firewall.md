@@ -81,10 +81,4 @@ Configure and test basic firewall rules to allow or block traffic.
 
 ---
 
-## Deliverables
-- **Screenshot**: (Include firewall status and applied rules)
-- **Configuration file**: Saved list of firewall rules
 
----
-
-**Key Concepts**: Firewall configuration, network traffic filtering, ports, UFW, Windows Firewall
