@@ -74,11 +74,3 @@ Capture live network packets using Wireshark, identify basic protocols, and anal
 
 ---
 
-## Deliverables
-- `.pcap` file of the captured session  
-- Short report (above findings)  
-- README.md on GitHub with steps and results
-
----
-
-**Key Concepts:** Packet capture, protocol analysis, TCP/IP, network troubleshooting, filtering.
