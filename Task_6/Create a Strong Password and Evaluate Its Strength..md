@@ -74,11 +74,3 @@ Understand what makes a password strong, test it using password strength tools, 
 
 ---
 
-## Deliverables
-- Screenshot of password strength tests.
-- Report of evaluation (above findings).
-- README.md file in GitHub repo.
-
----
-
-**Key Concepts:** Password strength, brute force, dictionary attack, MFA, password managers, passphrases.
