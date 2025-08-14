@@ -75,11 +75,3 @@ Learn to detect and remove potentially harmful browser extensions, improving bro
 
 ---
 
-## Deliverables
-- List of suspicious extensions found.
-- Reasons for removal.
-- README.md file in GitHub repo.
-
----
-
-**Key Concepts:** Browser security, extensions, permissions, malware, security best practices.
