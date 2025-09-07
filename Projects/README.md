@@ -1,5 +1,5 @@
 
-# WebVuln Scanner - Demo Package
+# WebVuln Scanner 
 
 ## Contents
 - scanner.py (CLI scanner)
@@ -29,6 +29,6 @@
    # then open http://127.0.0.1:5000
    ```
 
-## Notes
+## Note
 - Only scan targets in allowlist (edit scanner.py to change).
 - Active tests should only be used on lab targets like testphp.vulnweb.com
